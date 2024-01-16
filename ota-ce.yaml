@@ -57,7 +57,7 @@ services:
       TUF_REPOSERVER_HOST: "ota-lith"
       TUF_REPOSERVER_PORT: "7100"
       TUF_KEYSERVER_HOST: "ota-lith"
-      TUF_KEYSERVER_HOST: "7200"
+      TUF_KEYSERVER_PORT: "7200"
       DIRECTOR_HOST: "ota-lith"
       DIRECTOR_PORT: "7300"
       PLAY_CRYPTO_SECRET: youshouldreplacethiswithsomeotherlongsecret
